@@ -17,8 +17,6 @@
 
 ## Начало работы
 
-# Getting Started
-
 ### Clone the repository:
 
 ```bash
