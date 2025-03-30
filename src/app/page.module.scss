@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.weatherCard {
+  margin: 20px auto;
+  min-width: 400px;
+}
+
+.actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
